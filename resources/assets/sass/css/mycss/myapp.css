@@ -1,0 +1,62 @@
+/*# sourceMappingURL=app.css.map */
+
+@import "partials/form";
+
+
+a, a:hover {
+    color: #77CCDD;
+    text-decoration: none;
+}
+
+.flash{
+	background:#F6624A;
+	color:white;
+	width:200px;
+	position:absolute;
+	right:20px;
+	bottom:20px;
+	padding:1em;
+	display:none;
+}
+
+img{
+	max-width:100%;
+}
+
+.gallery_image{
+	margin-bottom:1em;
+}
+
+.navbar {
+    background-color: #77CCDD;
+    color: #ffffff;
+    /* border-radius: 0; */
+}
+
+.navbar-nav li a:hover {
+  	background-color:#66BBCC;
+}
+
+.navbar-nav > .open > a, .navbar-nav > .open > a:hover, .navbar-nav > .open > a:focus {
+	color: #000;
+  	opacity:.9;
+}
+
+.navbar-brand {
+	color:#fff;
+}
+.navbar-nav > li > a {
+    color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 1px solid #66BBCC;
+}
+
+.navbar-toggle {
+    color: #fff; 
+    border-width: 0;
+}
+.navbar-toggle:hover {
+    background-color: #fff;
+}
+

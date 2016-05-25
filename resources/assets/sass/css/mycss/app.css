@@ -1,0 +1,33 @@
+/*# sourceMappingURL=app.css.map */
+
+@import "partials/form";
+
+
+
+.flash{
+	background:#F6624A;
+	color:white;
+	width:200px;
+	position:absolute;
+	right:20px;
+	bottom:20px;
+	padding:1em;
+	display:none;
+}
+
+img{
+	max-width:100%;
+}
+.navbar-header{
+	font-size: 20px;
+}
+.navbar-header p{
+	font-size: 12px;
+}
+
+.navbar-header .brandword{
+	margin-bottom: 20px;
+    font-size: 23px;
+    font-weight: 300;
+    line-height: 1.4;
+}
